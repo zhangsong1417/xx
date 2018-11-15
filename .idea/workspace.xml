@@ -94,10 +94,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="816" />
-    <option name="y" value="12" />
+    <option name="x" value="540" />
+    <option name="y" value="40" />
     <option name="width" value="1797" />
-    <option name="height" value="932" />
+    <option name="height" value="907" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -370,15 +370,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="816" y="12" width="1797" height="932" extended-state="0" />
+    <frame x="540" y="40" width="1797" height="907" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="773" y="60" width="374" height="929" id="Project" order="0" sideWeight="0.3752381" visible="true" weight="0.15747584" />
+      <window_info content_ui="combo" x="773" y="60" width="374" height="929" id="Project" order="0" sideWeight="0.374" visible="true" weight="0.15747584" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50483227" side_tool="true" visible="true" weight="0.33879092" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50483227" side_tool="true" visible="true" weight="0.34980494" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4951677" visible="true" weight="0.33879092" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4951677" visible="true" weight="0.34980494" />
       <window_info anchor="bottom" x="336" y="259" width="1282" height="238" id="Run" order="2" sideWeight="0.50426376" side_tool="true" weight="0.34005037" />
-      <window_info id="Structure" order="1" sideWeight="0.6247619" side_tool="true" visible="true" weight="0.15747584" />
+      <window_info id="Structure" order="1" sideWeight="0.626" side_tool="true" visible="true" weight="0.15747584" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49792817" weight="0.3284091" />
       <window_info id="Favorites" order="2" sideWeight="0.6092573" side_tool="true" weight="0.19704953" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49630472" weight="0.2770781" />
