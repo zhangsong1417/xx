@@ -13,17 +13,7 @@
     <favorites_list name="xx" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lect08_v2.0.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lect08/lect08_v2.0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,9 +29,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/open_Chrome.py" />
-        <option value="$PROJECT_DIR$/telnet4.py" />
-        <option value="$PROJECT_DIR$/telnet2.py" />
         <option value="$PROJECT_DIR$/telnet3.py" />
         <option value="$PROJECT_DIR$/telnet.py" />
         <option value="$PROJECT_DIR$/nested.py" />
@@ -90,14 +77,17 @@
         <option value="$PROJECT_DIR$/lect08/lect08_v1.0.py" />
         <option value="$PROJECT_DIR$/lect07/pwd_strength/pwd_strength_V6.0.py" />
         <option value="$PROJECT_DIR$/lect08/lect08_v2.0.py" />
+        <option value="$PROJECT_DIR$/lect08/lect08_v3.0.py" />
+        <option value="$PROJECT_DIR$/lect08/lect08_v4.0.py" />
+        <option value="$PROJECT_DIR$/lect08/lect08_v5.0.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="540" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="131" />
+    <option name="y" value="131" />
     <option name="width" value="1797" />
-    <option name="height" value="907" />
+    <option name="height" value="928" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -140,11 +130,6 @@
               <item name="xx" type="b2602c69:ProjectViewProjectNode" />
               <item name="xx" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xx" type="462c0819:PsiDirectoryNode" />
-              <item name="lect07" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lect08_v1.0">
+  <component name="RunManager" selected="Python.lect08_v5.0">
     <configuration name="lect08_v1.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="xx" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,6 +174,78 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08/lect08_v1.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lect08_v2.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08/lect08_v2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lect08_v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08/lect08_v3.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lect08_v4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08/lect08_v4.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lect08_v5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xx" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08/lect08_v5.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,92 +269,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pwd_strength_V3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="xx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect07/pwd_strength" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect07/pwd_strength/pwd_strength_V3.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pwd_strength_V4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="xx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect07/pwd_strength" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect07/pwd_strength/pwd_strength_V4.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pwd_strength_V5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="xx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect07/pwd_strength" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect07/pwd_strength/pwd_strength_V5.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pwd_strength_V6.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="xx" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lect07/pwd_strength" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect07/pwd_strength/pwd_strength_V6.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.pwd_strength_V3.0" />
-      <item itemvalue="Python.pwd_strength_V4.0" />
-      <item itemvalue="Python.pwd_strength_V5.0" />
-      <item itemvalue="Python.pwd_strength_V6.0" />
       <item itemvalue="Python.lect08_v1.0" />
+      <item itemvalue="Python.lect08_v2.0" />
+      <item itemvalue="Python.lect08_v3.0" />
+      <item itemvalue="Python.lect08_v4.0" />
+      <item itemvalue="Python.lect08_v5.0" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lect08_v5.0" />
+        <item itemvalue="Python.lect08_v4.0" />
+        <item itemvalue="Python.lect08_v3.0" />
+        <item itemvalue="Python.lect08_v2.0" />
         <item itemvalue="Python.lect08_v1.0" />
-        <item itemvalue="Python.pwd_strength_V6.0" />
-        <item itemvalue="Python.pwd_strength_V5.0" />
-        <item itemvalue="Python.pwd_strength_V3.0" />
-        <item itemvalue="Python.pwd_strength_V4.0" />
       </list>
     </recent_temporary>
   </component>
@@ -370,18 +355,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="40" width="1797" height="907" extended-state="0" />
+    <frame x="131" y="131" width="1797" height="928" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" x="773" y="60" width="374" height="929" id="Project" order="0" sideWeight="0.374" visible="true" weight="0.15747584" />
+      <window_info active="true" content_ui="combo" x="773" y="60" width="374" height="929" id="Project" order="0" sideWeight="0.37341774" visible="true" weight="0.15747584" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50483227" side_tool="true" visible="true" weight="0.34980494" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50483227" side_tool="true" weight="0.34980494" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4951677" visible="true" weight="0.34980494" />
-      <window_info anchor="bottom" x="336" y="259" width="1282" height="238" id="Run" order="2" sideWeight="0.50426376" side_tool="true" weight="0.34005037" />
-      <window_info id="Structure" order="1" sideWeight="0.626" side_tool="true" visible="true" weight="0.15747584" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4951677" weight="0.34980494" />
+      <window_info anchor="bottom" x="336" y="259" width="1282" height="238" id="Run" order="2" sideWeight="0.50426376" side_tool="true" weight="0.26962024" />
+      <window_info id="Structure" order="1" sideWeight="0.62658226" side_tool="true" visible="true" weight="0.15747584" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49792817" weight="0.3284091" />
       <window_info id="Favorites" order="2" sideWeight="0.6092573" side_tool="true" weight="0.19704953" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49630472" weight="0.2770781" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4957362" weight="0.26962024" />
       <window_info anchor="bottom" id="Thumbnails" order="8" sideWeight="0.49947312" weight="0.32938644" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -437,27 +422,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spiral.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency_converter_v3.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currency_converter_v2.0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/currency_converter_v4.0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
@@ -783,8 +747,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lect08/lect08_v2.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        <state relative-caret-position="254">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lect08/lect08_v3.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lect08/lect08_v4.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1259">
+          <caret line="68" column="36" lean-forward="true" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lect08/lect08_v5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <element signature="e#184#215#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
