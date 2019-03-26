@@ -5,9 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/huatu/venv" />
       <excludeFolder url="file://$MODULE_DIR$/lect07/venv" />
       <excludeFolder url="file://$MODULE_DIR$/lect09/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/live/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.5" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5 (xx)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
