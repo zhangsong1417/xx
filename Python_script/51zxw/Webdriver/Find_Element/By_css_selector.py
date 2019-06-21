@@ -11,7 +11,7 @@ driver.get("http://www.baidu.com")
 # driver.find_element_by_css_selector(".s_ipt").send_keys("selenium")
 # driver.find_element_by_css_selector(".bg.s_btn").send_keys("selenium")
 # 根据属性来定位
-# driver.find_element_by_css_selector("[autocomplete='off").send_keys("selenium")
+# driver.find_element_by_css_selector("[autocomplete='off']").send_keys("selenium")
 # sleep(3）
 # driver.find_element_by_id("su").click()
 # sleep(3)
