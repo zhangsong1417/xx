@@ -1,14 +1,14 @@
-from selenium import  webdriver
+from selenium import webdriver
 from time import sleep
 
 driver = webdriver.Firefox()
 
-driver.get("http://www.51zxw.net")
+driver.get("https://www.baidu.com/")
 
-driver.find_element_by_link_text("程序开发").click()
-sleep(2)
-
-driver.find_element_by_partial_link_text("爬虫教程").click()
+driver.find_element_by_link_text("新闻").click()
 sleep(3)
 
-driver.quit()
+driver.find_element_by_partial_link_text("国内").click()
+sleep(3)
+
+#driver.quit()
