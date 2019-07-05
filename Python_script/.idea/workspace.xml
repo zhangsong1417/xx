@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80409d9c-d4bf-47c4-a2d0-aa56cf0fa02a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/51zxw/Send_Email/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Send_Email/send_emailAtt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Send_Email/send_emailMulti.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Test_Module/Call_Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Test_Module/Call_LoginPara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Test_Module/LoginClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Test_Module/LoginClass_para.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Test_Module/user_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Cookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Element_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/Which_Rooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/Which_Rooms2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Keyboard_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Mouse_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/Switch_to_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/alert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/cookie_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/implicitly_wait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/screenshot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/scroll_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/Webdriver/upload_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/pageObject/BasePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/pageObject/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/pageObject/related/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/pageObject/related/find_ElementBy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/pageObject/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/latest_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/runtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/runtest1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/runtest_BS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/runtest_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/runtest_emailAtt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Baidu/test_case/test_baidu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Project/StartEnd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Project/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Project/runtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Project/test_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/Test_Project/test_sub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/testCase_combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/test_Math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/test_Math1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/test_Math2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/test_Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/51zxw/unittest/test_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/model/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/model/myunit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/BasePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autotest_Project/driver/driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/By_css_selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/By_css_selector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/By_link_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/By_link_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/Save_Days.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/51zxw/Webdriver/Find_Element/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/51zxw/Webdriver/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/51zxw/Webdriver/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="1196">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -105,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/BasePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="506">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -187,8 +130,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="170" />
-    <option name="y" value="59" />
+    <option name="x" value="272" />
+    <option name="y" value="14" />
     <option name="width" value="1335" />
     <option name="height" value="1036" />
   </component>
@@ -434,7 +377,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="170" y="59" width="1335" height="1036" extended-state="1" />
+    <frame x="760" y="17" width="1335" height="1036" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17501928" />
@@ -442,7 +385,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24916944" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24916944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -836,8 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="1196">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
@@ -846,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/BasePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="506">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
