@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80409d9c-d4bf-47c4-a2d0-aa56cf0fa02a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Autotest_Project/Website/test_case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Autotest_Project/Website/test_case/test_login.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="168">
+              <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            <state relative-caret-position="-46">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -129,8 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="272" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="271" />
     <option name="y" value="14" />
     <option name="width" value="1335" />
     <option name="height" value="1036" />
@@ -143,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,12 +159,6 @@
               <item name="Python_script" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_script" type="462c0819:PsiDirectoryNode" />
               <item name="Autotest_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_script" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_script" type="462c0819:PsiDirectoryNode" />
-              <item name="Autotest_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Website" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,14 +167,6 @@
               <item name="Autotest_Project" type="462c0819:PsiDirectoryNode" />
               <item name="Website" type="462c0819:PsiDirectoryNode" />
               <item name="test_case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_script" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_script" type="462c0819:PsiDirectoryNode" />
-              <item name="Autotest_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Website" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_script" type="b2602c69:ProjectViewProjectNode" />
@@ -202,6 +187,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_login.LoginTest.test_login2_passwdError">
+  <component name="RunManager" selected="Python tests.Unittests in test_login.py">
     <configuration name="LoginPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_script" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,9 +309,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_login.py" />
         <item itemvalue="Python tests.Unittests for test_login.LoginTest.test_login2_passwdError" />
         <item itemvalue="Python tests.Unittests for test_login.LoginTest.test_login1_normal" />
-        <item itemvalue="Python tests.Unittests in test_login.py" />
         <item itemvalue="Python.LoginPage" />
         <item itemvalue="Python.function" />
       </list>
@@ -345,9 +331,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_skip_Test1 - 2019.04.23 at 14h 51m 13s.xml">
-      <configuration name="Unittests for test_skip.Test1" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_baidu_TestBaidu_test_baidu - 2019.04.23 at 16h 45m 07s.xml">
       <configuration name="Unittests for test_baidu.TestBaidu.test_baidu" configurationId="tests" />
     </history-entry>
@@ -375,17 +358,20 @@
     <history-entry file="Unittests_for_test_login_LoginTest_test_login2_passwdError - 2019.06.19 at 16h 48m 01s.xml">
       <configuration name="Unittests for test_login.LoginTest.test_login2_passwdError" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.07.09 at 09h 43m 11s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="17" width="1335" height="1036" extended-state="0" />
+    <frame x="271" y="14" width="1335" height="1036" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17501928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3145721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24916944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.6566999" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -733,9 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_report/screenshotSougou.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_report/screenshotSougou.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -777,16 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/BasePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -794,12 +767,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_report/screenshotSougou.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        <state relative-caret-position="-46">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autotest_Project/Website/test_case/page_object/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
