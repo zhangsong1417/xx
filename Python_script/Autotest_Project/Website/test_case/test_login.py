@@ -1,5 +1,5 @@
 import unittest
-from model import function,myunit
+from model import function, myunit
 from page_object.LoginPage import *
 from time import sleep
 
@@ -21,16 +21,9 @@ class LoginTest(myunit.StartEnd):
 
     def test_login2_passwdError(self):
         '''username is ok,password is error!'''
-        print("test_login2_PasswdError is start run"
-              ""
-              ""
-              ""
-              ""
-              ""
-              ""
-              "")
+        print("test_login2_PasswdError is start run...")
         po = LoginPage(self.driver)
-        po.Login_action("51zxw",12342)
+        po.Login_action("51zxw", 12342)
         sleep(2)
 
         self.assertEqual(po.type_loginFail_hint(), '')
@@ -45,5 +38,8 @@ class LoginTest(myunit.StartEnd):
         sleep(2)
 
         self.assertEqual(po.type_loginFail_hint(), '')
-        function.insert_img(self.driver, "51zxw_login3_fail.jpg")
+        function.insert_img(self.driver, "51zxw_login3_empty.jpg")
         print("test_login3_empty is test end!")
+
+    if __name__ == '__main__':
+        unittest.main()
